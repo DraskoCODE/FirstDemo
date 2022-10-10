@@ -32,6 +32,10 @@ public class BodyCalculator {
 
     }
 
+    public void print() {
+        System.out.println("branch");
+    }
+
 
 
 
